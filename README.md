@@ -209,8 +209,8 @@ plt.show()
 
 ### Original vs Noisy Vs Reconstructed Image:
 
+![image](https://github.com/Mithun103/convolutional-denoising-autoencoder/assets/118344695/9ae72093-19b0-4d24-935a-283c9379fff1)
 
-![op 1](https://github.com/Mithun103/convolutional-denoising-autoencoder/assets/118344695/843eabda-cb94-4078-a463-96460d2782f6)
 
 
 

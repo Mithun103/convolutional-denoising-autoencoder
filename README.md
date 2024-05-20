@@ -203,7 +203,8 @@ plt.show()
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot:
-<img src=https://github.com/PriyankaAnnadurai/convolutional-denoising-autoencoder/assets/118351569/86276ce9-d8a2-45d2-b8f8-59ed18342561 height=300 width=300>
+
+![op 1](https://github.com/Mithun103/convolutional-denoising-autoencoder/assets/118344695/843eabda-cb94-4078-a463-96460d2782f6)
 
 
 
